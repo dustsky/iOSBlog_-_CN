@@ -1,7 +1,4 @@
-# iOSBlogCN
-
-
-中文 iOS/Mac 开发博客列表
+#中文 iOS/Mac 开发博客列表
 =========
 
 因为巧哥的博客列表不再更新，决定接过来这个项目，希望能使其继续生存下去。如果有推荐的博客，请PR,如果有对git不熟悉的朋友，可参考文后的说明。
@@ -13,15 +10,12 @@
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
 [Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
 [唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
-＃[Lex Tang](http://lexrus.com/) | <http://lexrus.com/feed.xml>
 [念茜的博客](http://nianxi.net) | <http://nianxi.net/feed.xml>
 [Xcode Dev](http://blog.xcodev.com) | <http://blog.xcodev.com/atom.xml>
 [Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>
-＃[txx's blog](http://blog.t-xx.me) | <http://blog.t-xx.me/atom.xml>
 [Kevin Blog](http://zhowkev.in) | <http://zhowkev.in/rss>
 [阿毛的蛋疼地](http://www.xiangwangfeng.com) | <http://www.xiangwangfeng.com/atom.xml>
 [亚庆的 Blog](http://billwang1990.github.io) | <http://billwang1990.github.io/atom.xml>
-＃[Nonomori](http://nonomori.farbox.com) | <http://nonomori.farbox.com/feed>
 [言无不尽](http://tang3w.com) | <http://tang3w.com/atom.xml>
 [Wonderffee's Blog](http://wonderffee.github.io) | <http://wonderffee.github.io/atom.xml>
 [I'm TualatriX](http://imtx.me) | <http://imtx.me/feed/latest/>
@@ -37,7 +31,6 @@
 [I'm Allen](http://www.imallen.com) | <http://www.imallen.com/atom.xml>
 [Travis' Blog](http://imi.im/)| <http://imi.im/feed>
 [王中周的技术博客](http://wangzz.github.io/) |<http://wangzz.github.io/atom.xml>
-＃[会写代码的猪](http://jiajun.org/)|<http://gaosboy.com/feed/atom/>
 [克伟的博客](http://wangkewei.cnblogs.com/)|<http://feed.cnblogs.com/blog/u/23857/rss>
 [摇滚诗人](http://cnblogs.com/biosli)|<http://feed.cnblogs.com/blog/u/35410/rss>
 [Luke's Homepage](http://geeklu.com/) | <http://geeklu.com/feed/>
@@ -86,3 +79,5 @@
 
 
 之后登录GitHub，在你所fork的该库的首页可以看到一个 `pull request` 按钮，点击即可。
+
+后记：感谢[巧哥](https://github.com/tangqiaoboy)前期的付出
