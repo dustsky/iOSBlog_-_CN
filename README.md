@@ -64,6 +64,15 @@
 [石锅拌饭](http://www.robinlu.com/archives) | <http://kittenyang.com/rss/>
 [shenchao](http://shenchao.im/) | <http://shenchao.im/atom.xml>
 [NICO](http://blog.inico.me/) | <http://www.taofengping.com/rss.xml>
+[代码手工艺人](www.joeyio.com) | <http://joeyio.com/rss.xml> 
+[Luosky's Playground](http://luosky.com/) | <http://luosky.com/feed/">
+[I'm Allen](http://imallen.com/) | <http://www.imallen.com/atom.xml>
+[EasyMorse](http://www.easymorse.com) | <http://www.easymorse.com/index.php/feed>
+[博客园_easonoutlook"](http://www.cnblogs.com/easonoutlook/) | <http://www.cnblogs.com/easonoutlook/rss/>
+[Nico](http://www.taofengping.com) | <http://www.taofengping.com/rss.xml>
+[博客园_biosli](http://www.cnblogs.com/biosli/) | <http://www.cnblogs.com/biosli/rss>
+[vclwei](http://vclwei.com/) | <http://vclwei.com/posts.rss>
+[DLog](http://dlog.dismory.com/) | <http://dlog.dismory.com/atom.xml>
 # PR流程
 
 1. 在该项目主页fork这个项目
